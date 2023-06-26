@@ -2,7 +2,7 @@
 A fun shuffler to feed applers apple.
 
 I guess this might not be a big deal for you guys, however it means the world to me.
-I recently bought a macbook pro due to the help of a great friend named Natanan Shiferaw, and suddenly this idea came to mind.
+I recently bought a macbook pro due to the help of two great friends named Natanan Shiferaw and Milky, and suddenly this idea came to mind.
 
 Rules
 1. Everyday this code will shuffle a name and post it to our telegram channel.
